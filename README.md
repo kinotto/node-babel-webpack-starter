@@ -13,12 +13,12 @@ clone the repository then:
 `npm start` to start the server
 `npm build` to build the code
 
-##Features
+## Features
 
-**babel**: transpiling from ES6+ to ES5
-**webpack**: bundling the source to a bundle.js
-**live compiling**: as well as live reload 
-**custom .vscode**: added custom vscode configuration to allow easy debugging of the source inside Visual Studio Code
+- **babel**: transpiling from ES6+ to ES5
+- **webpack**: bundling the source to a bundle.js
+- **live compiling**: as well as live reload 
+- **custom .vscode**: added custom vscode configuration to allow easy debugging of the source inside Visual Studio Code
 
 
 
