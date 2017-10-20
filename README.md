@@ -10,9 +10,11 @@ on a Nodejs application, already configured with a custom .vscode to allow debug
 
 clone the repository then:
 
-`npm start` to start the server
+`npm install` or `yarn install`
 
-`npm build` to build the code
+`npm start` (to start the server)
+
+`npm build` (to build the code)
 
 ## Features
 
