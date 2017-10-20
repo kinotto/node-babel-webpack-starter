@@ -9,7 +9,7 @@
         "isBuildCommand": false,
         "isTestCommand": false,
         "showOutput": "always",
-        "args": ["run", "start"]
+        "args": ["start"]
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "name": "node-webpack-babel",
+  "name": "node-babel-webpack-starter",
   "version": "1.0.0",
   "description": "skeleton nodejs project with webpack for bundling and babel for transpiling",
   "main": "webpack.config.js",
