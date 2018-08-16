@@ -1,4 +1,7 @@
 
-let sum= (a,b) => a + b;
+const resolvePromiseWithES7 = async () => {
+  const result = await Promise.resolve("MyPromise");
+  console.log(result);
+}
 
-console.log(sum(1,2)); 
+resolvePromiseWithES7();

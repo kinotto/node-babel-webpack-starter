@@ -1,7 +1,10 @@
 const path = require('path');
 
 module.exports = {
-    entry: './src/index.js',
+    entry: [
+      'regenerator-runtime/runtime',
+      './src/index.js'
+    ],
     target: 'node',
     devtool: 'eval-source-map',
     output: {
