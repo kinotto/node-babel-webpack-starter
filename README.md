@@ -1,6 +1,6 @@
 # Nodejs + Babel + Webpack app starter
 
-<img src="https://thumbs.gfycat.com/BigheartedLimpingKrill-size_restricted.gif" />
+<img src="https://im3.ezgif.com/tmp/ezgif-3-d2a45ae3ba.gif" />
 
 ## Quick Overview
 
