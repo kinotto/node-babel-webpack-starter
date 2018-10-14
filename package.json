@@ -7,7 +7,7 @@
     "build": "webpack",
     "start": "npm-run-all --parallel watch:server watch:build",
     "watch:build": "webpack --watch",
-    "watch:server": "nodemon --inspect=\"5858\" \"./build/bundle.js\" --watch \"./build\" "
+    "watch:server": "nodemon --inspect=\"9229\" \"./build/bundle.js\" --watch \"./build\" "
   },
   "author": "karim",
   "license": "MIT",

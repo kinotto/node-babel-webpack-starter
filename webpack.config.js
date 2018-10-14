@@ -6,7 +6,7 @@ module.exports = {
       './src/index.js'
     ],
     target: 'node',
-    devtool: 'eval-source-map',
+    devtool: 'source-map',
     output: {
         path: path.resolve(__dirname, 'build'),
         filename: 'bundle.js',
