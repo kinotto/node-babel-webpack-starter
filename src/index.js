@@ -1,7 +1,3 @@
+import print from './es6module';
 
-const resolvePromiseWithES7 = async () => {
-  const result = await Promise.resolve("MyPromise");
-  console.log(result);
-}
-
-resolvePromiseWithES7();
+print("Hello!");
