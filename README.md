@@ -5,7 +5,7 @@
 
 ## Quick Overview
 
-This is a minimalistic starter app to benefit of the flexibility of Babel and of ES6, ES7+ (eg. async await) features, if you you want to use the latest ECMAscript features without waiting for nodejs to support them natively, already configured with a custom .vscode to allow debugging inside Visual studio code IDE
+This is a minimalistic starter app to benefit of the flexibility of Babel and of ES6, ES7+ (eg. async await, es6 modules) features, if you you want to use the latest ECMAscript features without waiting for nodejs to support them natively, already configured with a custom .vscode to allow debugging inside Visual studio code IDE
 
 see also [node typescript webpack starter](https://github.com/kinotto/node-typescript-webpack-starter)
 
